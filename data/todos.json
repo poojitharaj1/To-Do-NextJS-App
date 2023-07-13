@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "18cc43f3-514f-4d40-89ef-110cd3a8933b",
+      "done": false,
+      "text": "Coles",
+      "desc": "Start at 6 PM in the evening and buy Groceries"
+    },
+    {
+      "id": "4aa92594-c678-4bde-9efb-56c73bdfa05e",
+      "done": true,
+      "text": "Woolies",
+      "desc": "Buy Veggies and Breads."
+    },
+    {
+      "id": "2358a91e-d86c-4770-b365-39e0012c7161",
+      "done": true,
+      "text": "Doctor ",
+      "desc": "Appointment in the morning 10 AM"
+    },
+    {
+      "id": "f1acff8e-639a-450e-8c21-91fa4c3070be",
+      "done": false,
+      "text": "Work",
+      "desc": "Meeting in the morning 9 AM"
+    }
+  ]
+}
