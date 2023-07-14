@@ -5,7 +5,7 @@ This project is a simple To-Do App built with the new Next.js 13 App Router. Her
 **** NOTE ****
 To run this app in your system 
 1. Node js version must be 16 or above.
-2. Important to install command of line 16 and 17 of this file.
+2. Important to install all commands from below.
 3. Run the JSON server parallely in the same folder path when application is started. 
 
 ### Getting Started
@@ -16,11 +16,10 @@ git clone ............url.......
 --Go to downloaded folder path and open command propmt and run below commands step by step
 
 npm i next@latest react@latest react-dom@latest
-npm i react-router-dom
 
 --Install dev dependencies with below command : 
 npm install
-npm i react-router-dom
+npm i react-router-dom --global
 
 --To start the Application in the browser:
 npm run dev
