@@ -11,7 +11,7 @@ To run this app in your system
 ### Getting Started
 
 --Clone the repository using command :
-git clone ............url.......
+git clone https://github.com/poojitharaj1/To-Do-NextJS-App.git
 
 --Go to downloaded folder path and open command propmt and run below commands step by step :
 
