@@ -27,7 +27,7 @@ npm run dev
 -- Navigate to http://localhost:3000 in your web browser
 
 --Parallely in the same downloaded folder path, open another command propmt and reun below command for ruuning Local JSON server and to perform CRUD operations( very important step):
-npm run json-server
+npm run json-server --global
 
 ### 📦 Built With
 In this Application, I have used daisyui plugin for tailwind css, which provides set of UI components for faster development.
