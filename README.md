@@ -30,7 +30,7 @@ npm run dev
 --Parallely in the same downloaded folder path, open another command propmt and reun below command for ruuning Local JSON server and to perform CRUD operations( very important step):
 npm run json-server --global
 
-### 📦 Built With
+### Built With
 In this Application, I have used daisyui plugin for tailwind css, which provides set of UI components for faster development.
 I have also used react icons for Edit and Delete buttons.
 - [nextjs 13 docs] https://beta.nextjs.org/docs
