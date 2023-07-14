@@ -10,10 +10,10 @@ To run this app in your system
 
 ### Getting Started
 
---Clone the repository using below command
+--Clone the repository using command :
 git clone ............url.......
 
---Go to downloaded folder path and open command propmt and run below commands step by step
+--Go to downloaded folder path and open command propmt and run below commands step by step :
 
 npm i next@latest react@latest react-dom@latest
 
@@ -26,7 +26,7 @@ npm run dev
 
 -- Navigate to http://localhost:3000 in your web browser
 
---Parallely in the same downloaded folder path, open another command propmt and reun below command for ruuning Local JSON server and to perform CRUD operations( very important step)
+--Parallely in the same downloaded folder path, open another command propmt and reun below command for ruuning Local JSON server and to perform CRUD operations( very important step):
 npm run json-server
 
 ### 📦 Built With
