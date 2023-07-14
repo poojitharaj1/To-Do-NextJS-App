@@ -5,13 +5,14 @@ This project is a simple To-Do App built with the new Next.js 13 App Router. Her
 **** NOTE ****
 To run this app in your system 
 1. Node js version must be 16 or above.
-2. Important to install all commands from below.
-3. Run the JSON server parallely in the same folder path when application is started. 
+2. Select master branch from the repository of my code.
+3. Important to install all commands from below.
+4. Run the JSON server parallely in the same folder path when application is started. 
 
 ### Getting Started
 
 --Clone the repository using command :
-git clone https://github.com/poojitharaj1/To-Do-NextJS-App.git
+git clone https://github.com/poojitharaj1/To-Do-NextJS-App.git -b master
 
 --Go to downloaded folder path and open command propmt and run below commands step by step :
 
